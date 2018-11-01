@@ -1,0 +1,16 @@
+{
+  "name": "node.js_mysql",
+  "version": "1.0.0",
+  "description": "bootcamp hw",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}

@@ -4,10 +4,23 @@ A Node.js & MySQL command line Amazon-like storefront app that takes in customer
 Click link to see demo:
 https://drive.google.com/file/d/14EZAqx39ckmqDq6Dq_yHwWeBy5D0Sy9C/view
 
-Tech Used
-Node.js
-Express
-MySQL
+Tech Used 
+
+-Node.js
+
+-Express
+
+-MySQL
+
+How to use the app
+
+-npm install 
+
+-npm install node 
+
+-npm install express
+
+-npm install mysql
 
 Challenge #1: Customer View 
 
